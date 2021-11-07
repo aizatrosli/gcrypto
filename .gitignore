@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+train.csv
+g-research-crypto-forecasting.zip
+supplemental_train.csv
